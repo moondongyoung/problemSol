@@ -2,20 +2,20 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/Problem/[Ll]ibrary/
-/Problem/[Tt]emp/
-/Problem/[Oo]bj/
-/Problem/[Bb]uild/
-/Problem/[Bb]uilds/
-/Problem/[Ll]ogs/
-/Problem/[Uu]ser[Ss]ettings/
+/ProblemSol/[Ll]ibrary/
+/ProblemSol/[Tt]emp/
+/ProblemSol/[Oo]bj/
+/ProblemSol/[Bb]uild/
+/ProblemSol/[Bb]uilds/
+/ProblemSol/[Ll]ogs/
+/ProblemSol/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
-/Problem/[Mm]emoryCaptures/
+/ProblemSol/[Mm]emoryCaptures/
 
 # Recordings can get excessive in size
-/Problem/[Rr]ecordings/
+/ProblemSol/[Rr]ecordings/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
@@ -65,8 +65,8 @@ sysinfo.txt
 crashlytics-build.properties
 
 # Packed Addressables
-/Problem/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/ProblemSol/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Temporary auto-generated Android Assets
-/Problem/[Aa]ssets/[Ss]treamingAssets/aa.meta
-/Problem/[Aa]ssets/[Ss]treamingAssets/aa/
+/ProblemSol/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/ProblemSol/[Aa]ssets/[Ss]treamingAssets/aa/
