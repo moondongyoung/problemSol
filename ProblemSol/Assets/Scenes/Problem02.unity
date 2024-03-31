@@ -603,6 +603,10 @@ PrefabInstance:
       propertyPath: StartPoint
       value: 
       objectReference: {fileID: 573836667}
+    - target: {fileID: 8904689327429338777, guid: 3d33b617b68259e44a596566bfa9e224, type: 3}
+      propertyPath: BulletSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 569823015577328510, guid: 3d33b617b68259e44a596566bfa9e224, type: 3}
     - {fileID: 55639240895854633, guid: 3d33b617b68259e44a596566bfa9e224, type: 3}
