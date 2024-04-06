@@ -359,6 +359,7 @@
 "Assets/Problem02/Script/DataStrucuture.cs"
 "Assets/Problem02/Script/ObjectPoolManager.cs"
 "Assets/Problem02/Script/PlayerController.cs"
+"Assets/Problem02/Script/StaticMeshGen.cs"
 -langversion:9.0
 
 /deterministic
