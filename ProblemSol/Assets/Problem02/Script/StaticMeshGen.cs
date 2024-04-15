@@ -1,3 +1,6 @@
+using System.Collections;
+using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEditor;
 
@@ -67,6 +70,7 @@ public class StaticMeshGen : MonoBehaviour
 
         mesh.triangles = triangleIndices;
 
+
         if (this.GetComponent<MeshFilter>() != null)
         {
             MeshFilter abc = this.GetComponent<MeshFilter>();
@@ -76,5 +80,8 @@ public class StaticMeshGen : MonoBehaviour
         MeshRenderer mr = gameObject.AddComponent<MeshRenderer>();
 
         mf.mesh = mesh;
+
+
+        mesh.RecalculateNormals();
     }
 }
