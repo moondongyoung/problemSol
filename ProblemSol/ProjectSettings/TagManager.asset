@@ -4,16 +4,19 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - Wall
+  - GreenBox
+  - RedBox
   - RedCube
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
+  - Bullet
+  - wall
   - 
   - 
   - 
